@@ -89,9 +89,9 @@ p {
   padding: 95px 61px;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 912px) {
   .hero {
-    padding: 60px 0 60px 0;
+    padding: 60px 10px 60px 10px;
   }
   .hero h1 {
     font-size: 50px;
