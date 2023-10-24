@@ -105,15 +105,13 @@ p {
   .hero p {
     font-size: 20px;
   }
-  .btn-project {
-    display: block;
-    text-align: center;
-  }
+
   .content p {
     text-align: justify;
   }
   .content {
     padding: 50px 30px;
+    text-align: center;
   }
   .content h2 {
     font-size: 30px;
