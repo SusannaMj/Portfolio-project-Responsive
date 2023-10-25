@@ -87,8 +87,6 @@ p {
   font-size: 16px;
   font-weight: 400;
   line-height: 30px;
-  letter-spacing: 0em;
-  text-align: left;
 }
 
 .about-header img {
@@ -124,7 +122,7 @@ p {
   padding: 95px 61px;
 }
 
-@media (max-width: 912px) {
+@media (max-width: 960px) {
   .hero {
     padding: 60px 10px 60px 10px;
   }
@@ -151,5 +149,15 @@ p {
   .content h2 {
     font-size: 30px;
     text-align: center;
+  }
+
+  .about-header {
+    text-align: center;
+    padding: 0;
+  }
+
+  .about-header h1 {
+    font-size: 50px;
+    line-height: 1.5;
   }
 }
