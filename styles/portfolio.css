@@ -11,7 +11,11 @@ nav {
   padding: 20px;
 }
 .logo {
-  max-width: 150px;
+  max-height: 42px;
+}
+
+.logo-small {
+  max-height: 42px;
 }
 
 li {
@@ -241,5 +245,9 @@ p {
   .work h1 {
     font-size: 50px;
     padding: 40px 30px;
+  }
+
+  nav li {
+    padding-left: 10px;
   }
 }
