@@ -95,11 +95,11 @@ p {
 .hero {
   background-color: var(--secondary-color);
   text-align: center;
-  padding: 276px 375px;
+  padding: 90px 375px;
 }
 
 .content-container {
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 .content-container h1 {
   font-family: var(--primary-font);
@@ -152,7 +152,7 @@ p {
 }
 
 .content {
-  padding: 95px 61px;
+  padding: 10px 61px;
 }
 
 .work h1 {
@@ -161,7 +161,7 @@ p {
   font-weight: 700;
   line-height: 85px;
   text-align: left;
-  padding: 130px 20px;
+  padding: 80px 20px;
 }
 
 .work h3 {
