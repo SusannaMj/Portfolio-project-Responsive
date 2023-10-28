@@ -203,6 +203,36 @@ p {
   padding: 40px 100px;
   border-radius: 10px;
 }
+
+footer .email-link {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  color: #272142;
+  font-size: 24px;
+  font-family: var(--secondary-font);
+  padding: 20px;
+  transition: all 100ms ease-in-out;
+}
+
+footer .email-link:hover {
+  color: var(--main-color);
+}
+
+footer .social-links a {
+  color: var(--main-color);
+  padding: 10px 15px;
+  border-radius: 50%;
+  font-size: 18px;
+  background-color: var(--secondary-color);
+  margin: 15px;
+  transition: all 100ms ease-in-out;
+}
+
+footer .social-links a:hover {
+  color: var(--secondary-color);
+  background-color: var(--main-color);
+}
 @media (max-width: 960px) {
   .hero {
     padding: 60px 10px 60px 10px;
